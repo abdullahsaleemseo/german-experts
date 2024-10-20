@@ -11,6 +11,7 @@ $publisher = "Abdullah Saleem";
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="eHZA44qsNBd85vly85E8Ru-5Ty8DSr4-h8dcyUpFOsw" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $title; ?></title>
